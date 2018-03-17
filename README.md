@@ -1,2 +1,2 @@
-# HonKontrol-
-An IOS app built on swift to help reduce noise pollution. 
+# HonKontrol+
+An iOS app built on swift to help reduce noise pollution. 
